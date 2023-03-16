@@ -8,3 +8,9 @@ Fileokat tudunk hozzáadni a stageing area-hoz (elkülönített rész, hogy mely
 "felcímkézzük" az adott változtatásainkat, létrejön egy verzió, egy általunk megadott üzenettel.
 # 4. git push/pull
 Szinkronba hozzuk a távoli és lokális repositoryt.
+
+
+Terminal commands:
+`cd` - change directory
+`pwd` - print working directory
+`ls` - list files
