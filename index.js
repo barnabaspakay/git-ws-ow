@@ -5,7 +5,7 @@ function index() {
     useEffect(() => {
         fetch
             .then(
-                setState(data)
+                setState(tata)
             )
         // component will mount
         return () => {
