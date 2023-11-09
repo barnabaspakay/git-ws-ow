@@ -5,7 +5,7 @@ function index() {
     useEffect(() => {
         fetch
             .then(
-                setState(conflict)
+                setState(kata)
             )
         // component will mount
         return () => {
